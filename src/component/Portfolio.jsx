@@ -9,9 +9,9 @@ export default class Portfolio extends Component {
     return (
       <div id="portfolio">
         <div className="container mx-auto">
-          <div className="row p-5">
+          <div className="row p-5 ">
             <div className="col-12">
-              <div className="head text-center">
+              <div className="head text-center ">
                 <h2>PORTFOLIO COMPONENT</h2>
                 <div className="icon col-4 mx-auto  my-3 ">
                   <i class="fa-solid fa-star"></i>
